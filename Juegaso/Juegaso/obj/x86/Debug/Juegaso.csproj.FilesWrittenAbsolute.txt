@@ -1,0 +1,5 @@
+/Volumes/ADATA SH14/Programacion/Projects/Juegaso/Juegaso/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Volumes/ADATA SH14/Programacion/Projects/Juegaso/Juegaso/bin/Debug/Juegaso.exe.mdb
+/Volumes/ADATA SH14/Programacion/Projects/Juegaso/Juegaso/bin/Debug/Juegaso.exe
+/Volumes/ADATA SH14/Programacion/Projects/Juegaso/Juegaso/obj/x86/Debug/Juegaso.exe
+/Volumes/ADATA SH14/Programacion/Projects/Juegaso/Juegaso/obj/x86/Debug/Juegaso.exe.mdb

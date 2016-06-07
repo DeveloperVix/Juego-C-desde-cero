@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Juegaso/Interface.cs">
+    <Files>
+      <File FileName="Juegaso/Main.cs" Line="5" Column="17" />
+      <File FileName="Juegaso/Interface.cs" Line="126" Column="22" />
+      <File FileName="Juegaso/Enemigo.cs" Line="1" Column="1" />
+      <File FileName="Juegaso/Caracteristicas.cs" Line="17" Column="1" />
+      <File FileName="Juegaso/VentaFinal.cs" Line="11" Column="3" />
+      <File FileName="Juegaso/VentanaFinal2.cs" Line="18" Column="21" />
+      <File FileName="Juegaso/VentanaFinal3.cs" Line="15" Column="35" />
+      <File FileName="Juegaso/Jugador.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
